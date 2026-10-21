@@ -35,3 +35,22 @@ SHA1: 3e65b31338fb683a39ef610928940031d450b54b
 SHA256: be5887bdc5756c72adea18e3406fdc6356ab49f4ae5aba152431ebd80b2ab5ca
 Name: MeiFlow (魅流)
 Description: Flyme-inspired notification barrage and interactive real app small windows for RootHide on iOS 16 and 17.
+
+Package: com.xcode.meiflow
+Version: 1.0.4-001
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Maintainer: 张小生
+Author: 张小生
+Depends: firmware (>= 16.0), firmware (<< 18.0), mobilesubstrate, com.opa334.libsandy, preferenceloader
+Conflicts: com.xcode.notificationbridge
+Replaces: com.xcode.notificationbridge
+Provides: com.xcode.notificationbridge
+Installed-Size: 4024
+Filename: debs/com.xcode.meiflow_1.0.4-001_iphoneos-arm64e.deb
+Size: 1120126
+MD5sum: 5822db6dd95150cf0d05e599a6a76bdd
+SHA1: 46b90b7637d91a2f54bb080457fce80f82baa835
+SHA256: ea260f8918ee3b503e3527599949aed3ba1ad81f4d7dbd3f9e793009b7e26608
+Name: MeiFlow (魅流)
+Description: Flyme-inspired notification barrage and interactive real app small windows for RootHide on iOS 16 and 17.
