@@ -6,12 +6,12 @@ Codename: ios
 Architectures: iphoneos-arm64e
 Components: main
 Description: 魅流 MeiFlow：iOS 16.0–17.x RootHide 越狱插件——真实 App 浮动小窗、通知下拉直达会话、横屏通知弹幕、会话头像 Dock
-Date: Wed, 25 Nov 2026 07:53:42 UTC
+Date: Wed, 25 Nov 2026 08:20:29 UTC
 MD5Sum:
- 82c16d34cae1ca0068cbc50badcc5b36 6803 Packages
- 97ec2fdcb8e07e862a11caff0d9250c6 1381 Packages.gz
- 6fb4e2e27dc5cf47d8bacc97686f47a9 1682 Packages.bz2
+ de151fa564c6653726580458d7b4db92 7559 Packages
+ 8fdea4ffe072a53affa618b9ec835458 1482 Packages.gz
+ e2ae8c7eb016c1f44e1d5122a3a61ec4 1770 Packages.bz2
 SHA256:
- 31f548e908c560477a248e31d11ac2d11901cae198c099e7c0b784a6c2d72bfb 6803 Packages
- e42428ab88c4e4e9ec43fdf49cd4cb774bb734dba680f5cbc9fa105f3b73275b 1381 Packages.gz
- abc143e02d904a6c13323cf4cca7a754b98ae63a079ceef5b324319476891f9f 1682 Packages.bz2
+ dad6ab7c165320307bb8b2c492a0aace0bc3a332ac0f8066858157b82a94e5d0 7559 Packages
+ ba12ca759502cef15e3855ff51ac836d9ceab3043fa20d400ffb4679bb67b10d 1482 Packages.gz
+ 45a22a4501f050849cab4762c5d87249903464424a5c84114e29ba1cae820c4c 1770 Packages.bz2
